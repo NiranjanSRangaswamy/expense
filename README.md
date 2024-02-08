@@ -12,9 +12,7 @@ You can add and delete Expenses easily with different categories.
 
 Clone the project
 
-```bash
-  git clone https://github.com/Bug-Slicers/expensetracker.git
-```
+
 
 Go to the project directory
 
@@ -67,13 +65,10 @@ To run this project, you will need to add the following environment variables to
 `SECRET_KEY` : For verifying jwt tokens.
 
 `DATABASE` : contains the dbURI of MongoDB connections
+`PORT` : contains number port for server connections
 
 
 ## Authors  
-
-- [Jayesh Patil](https://github.com/jayesh1602)
-- [Rohit Patil](https://github.com/rohitvpatil0810)
-- [Manas Jadhav](https://github.com/ManasJadhav)
 
 
 
